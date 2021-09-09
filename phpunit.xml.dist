@@ -26,7 +26,7 @@
             <directory>tests/Integration/</directory>
         </testsuite>
         <testsuite name="fonctionnel">
-            <directory>tests/Funct/</directory>
+            <directory>tests/Func/</directory>
         </testsuite>
         
     </testsuites>
