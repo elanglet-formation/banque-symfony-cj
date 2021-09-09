@@ -112,6 +112,9 @@
     "phar-io/version": {
         "version": "3.1.0"
     },
+    "php-webdriver/webdriver": {
+        "version": "1.11.1"
+    },
     "phpdocumentor/reflection-common": {
         "version": "2.2.0"
     },
